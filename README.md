@@ -7,11 +7,9 @@ Link to download my latest [Resume](https://drive.google.com/file/d/1-aUZKl-i_Na
 
 ### About Me
 
- Hi, I'm a Data Analyst. So, being a Coding enthusiast, Debugger, Coffee Connoisseur, Experience Designer is a part of the experience.
- I have pursued a Masters Degree in Computer Science with a Track in Data Science from NC State University, with a passion for solving complex problems and building impactful solutions. 
- Previously, I have worked on tech stacks like Machine Learning, Web Development and Data Science to turn ideas into turn-key projects.
+ Hi, I’m a Data Analyst and coding enthusiast with a knack for debugging and experience design. I have a Bachelor’s degree in Computer Engineering from SPPU and am an incoming Fall 2025 MS in Information Management (MSIM) student at the prestigious University of Illinois Urbana-Champaign (UIUC).
 
- I have a keen interest in data-driven decision-making and software engineering, with experience in web development, database management, and data visualization tools like Power BI and Tableau. I enjoy learning new technologies and applying them to real-world projects.
+My experience spans SAP ABAP development and Data Analytics, complemented by previous work in Machine Learning, Web Development, and Data Science—turning ideas into turnkey solutions. I’m passionate about solving complex problems and designing impactful experiences.
  
 <!-- 👯 I'm currently seeking full-time opportunities in data analytics and software engineering roles where I can contribute, learn, upskill, and grow.-->
 
@@ -34,7 +32,7 @@ Link to download my latest [Resume](https://drive.google.com/file/d/1-aUZKl-i_Na
 
 ---
 
-🌱 I have experience in Regression Engineering, Database Management, and Software Development, with strong expertise in SAP ABAP development and data analytics for process optimization, decision support, and managing complex systems.
+🌱 I have experience in Regression Engineering, Database Management, and Software Development, with strong expertise in SAP ABAP development and Data Analytics for process optimization, decision support, and managing complex systems.
 
 ⚡ Fun fact: As a part of Android Jams, I crafted a community app in Kotlin and Firebase, that got selected and recognized nationally as #6 application by Google Inc [Link](https://youtu.be/Ha0aX8QSXnc) Check at Timestamp 02:00
 
