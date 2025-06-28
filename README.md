@@ -1,5 +1,5 @@
 # Trupti Dattatraya Reddy
-### MCS @ NC State | Data Science | Machine Learning | Actively Seeking 2025 Full-Time Opportunities
+### MSIM @ UIUC FALL'25 | Data Analyst | SAP ABAP Consultant 
 😄 Pronouns: she/her
 
 ### Resume
@@ -13,7 +13,7 @@ Link to download my latest [Resume](https://drive.google.com/file/d/1-aUZKl-i_Na
 
  I have a keen interest in data-driven decision-making and software engineering, with experience in web development, database management, and data visualization tools like Power BI and Tableau. I enjoy learning new technologies and applying them to real-world projects.
  
- 👯 I'm currently seeking full-time opportunities in data analytics and software engineering roles where I can contribute, learn, upskill, and grow.
+<!-- 👯 I'm currently seeking full-time opportunities in data analytics and software engineering roles where I can contribute, learn, upskill, and grow.-->
 
 ### Work Experience
 
