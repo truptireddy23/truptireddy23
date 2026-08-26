@@ -1,5 +1,5 @@
 # Trupti Dattatraya Reddy
-### MSIM @ UIUC FALL'25 | Data Analyst | SAP ABAP Consultant 
+### MSIM @ UIUC FALL'25 | Data Analyst | SAP ABAP Consultant MSIM 
 😄 Pronouns: she/her
 
 ### Resume
@@ -7,7 +7,13 @@
 
 ### About Me
 
- Hi, I’m a Data Analyst and coding enthusiast with a knack for debugging and experience design. I have a Bachelor’s degree in Computer Engineering from SPPU and am an incoming Fall 2025 MS in Information Management (MSIM) student at the prestigious University of Illinois Urbana-Champaign (UIUC).
+ Hi, I’m Trupti, a data enthusiast who enjoys turning data into useful insights and building practical solutions with technology.
+
+I’m currently pursuing my Master’s in Information Management at the University of Illinois Urbana-Champaign (UIUC), with a focus on Data Analytics, Business Intelligence, Data Visualization, and Information Consulting. I hold a Bachelor’s degree in Computer Engineering from Savitribai Phule Pune University.
+
+My experience spans data analytics, business intelligence, SAP ABAP development, data engineering, and AI. I enjoy working with Python, SQL, Power BI, Tableau, and machine learning to explore data, solve problems, and build solutions that are easy to understand and use.
+
+I’m particularly interested in the intersection of data, AI, and business — from building dashboards and data pipelines to exploring generative AI and intelligent applications.
 
 My experience spans SAP ABAP development and Data Analytics, complemented by previous work in Machine Learning, Web Development, and Data Science—turning ideas into turnkey solutions. I’m passionate about solving complex problems and designing impactful experiences.
  
@@ -17,6 +23,9 @@ My experience spans SAP ABAP development and Data Analytics, complemented by pre
 
 |                 Organization                 |             Role                       |                Duration               |
 |:--------------------------------------------:|:--------------------------------------:|:-------------------------------------:|
+|      COUNTRY Financial                       |          Data Scientist Intern         |          August 2026 - Present        |
+|       Chicago Transit Authority(CTA)         |          Data Analyst Intern           |          June 2026 - July 2026        |
+|        Buisness Intelligence Group           |        Technology Consultant           |        January 2026 - August 2026     |
 | Volkswagen Group Technology Solutions, India | Software Engineer-SAP ABAP Consultant  |          August 2023 - July 2025      |
 |            LTIMindtree                       |      Data Analyst Intern               |          August 2022 - March 2022     |
 
