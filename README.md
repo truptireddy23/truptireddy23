@@ -7,17 +7,17 @@
 
 ### About Me
 
- Hi, I’m Trupti, a data enthusiast who enjoys turning data into useful insights and building practical solutions with technology.
+ Hi, I am Trupti, a data enthusiast who enjoys turning data into useful insights and building practical solutions with technology.
 
-I’m currently pursuing my Master’s in Information Management at the University of Illinois Urbana-Champaign (UIUC), with a focus on Data Analytics, Business Intelligence, Data Visualization, and Information Consulting. I hold a Bachelor’s degree in Computer Engineering from Savitribai Phule Pune University.
+I am currently pursuing my Master’s in Information Management at the University of Illinois Urbana-Champaign (UIUC), with a focus on Data Analytics, Business Intelligence, Data Visualization, and Information Consulting. I hold a Bachelor’s degree in Computer Engineering from Savitribai Phule Pune University.
 
 My experience spans data analytics, business intelligence, SAP ABAP development, data engineering, and AI. I enjoy working with Python, SQL, Power BI, Tableau, and machine learning to explore data, solve problems, and build solutions that are easy to understand and use.
 
-I’m particularly interested in the intersection of data, AI, and business — from building dashboards and data pipelines to exploring generative AI and intelligent applications.
+I’m particularly interested in the intersection of data, AI, and business, from building dashboards and data pipelines to exploring generative AI and intelligent applications.
 
-My experience spans SAP ABAP development and Data Analytics, complemented by previous work in Machine Learning, Web Development, and Data Science—turning ideas into turnkey solutions. I’m passionate about solving complex problems and designing impactful experiences.
+My experience spans SAP ABAP development and Data Analytics, complemented by previous work in Machine Learning, Analytics, and Data Science, turning ideas into turnkey solutions. I am passionate about solving complex problems and designing impactful experiences.
  
-<!-- 👯 I'm currently seeking full-time opportunities in data analytics and software engineering roles where I can contribute, learn, upskill, and grow.-->
+<!-- 👯 I am currently seeking full-time opportunities in data analytics and software engineering roles where I can contribute, learn, upskill, and grow.-->
 
 ### Work Experience
 
