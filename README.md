@@ -1,5 +1,5 @@
 # Trupti Dattatraya Reddy
-### MSIM @ UIUC FALL'25 | Data Analyst | SAP ABAP Consultant MSIM 
+### MSIM @ UIUC | Data Science Intern @COUNTRY Financial | prev. Data Analyst Intern @Chicago Transit Authority | Ex- SAP ABAP Consultant @Volkswagen Group Technology Solutions India
 😄 Pronouns: she/her
 
 ### Resume
