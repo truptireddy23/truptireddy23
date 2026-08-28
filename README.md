@@ -23,7 +23,7 @@ My experience spans SAP ABAP development and Data Analytics, complemented by pre
 
 |                 Organization                 |             Role                       |                Duration               |
 |:--------------------------------------------:|:--------------------------------------:|:-------------------------------------:|
-|      COUNTRY Financial                       |          Data Scientist Intern         |          August 2026 - Present        |
+|      COUNTRY Financial                       |          Data Science Intern           |          August 2026 - Present        |
 |       Chicago Transit Authority(CTA)         |          Data Analyst Intern           |          June 2026 - July 2026        |
 |        Buisness Intelligence Group           |        Technology Consultant           |        January 2026 - August 2026     |
 | Volkswagen Group Technology Solutions, India | Software Engineer-SAP ABAP Consultant  |          August 2023 - July 2025      |
